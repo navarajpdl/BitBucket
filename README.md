@@ -1,5 +1,5 @@
 # BitBucket
-# using Rest Templates
+#  Rest Templates
 #integrating birbucket
 #checking user name and password
 #after loging return the details for particular user
